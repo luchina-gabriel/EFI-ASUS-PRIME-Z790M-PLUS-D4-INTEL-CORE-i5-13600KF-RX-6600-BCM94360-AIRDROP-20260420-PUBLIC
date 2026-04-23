@@ -1,5 +1,7 @@
 # Hackintosh, Asus Prime Z790M Plus D4, Intel Core i5 13600KF, AMD Radeon RX 6600
 
+<img width="2996" height="1336" alt="Portfolio" src="https://github.com/user-attachments/assets/551ebff7-6ff1-4176-b535-082c5b1109d3" />
+
 # Basic Information
 
 **macOS**: macOS Tahoe (26.4.1)
